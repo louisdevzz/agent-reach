@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="#bắt-đầu-nhanh">Bắt đầu nhanh</a> · <a href="README.en.md">English</a> · <a href="README.md">中文</a> · <a href="#nền-tảng-hỗ-trợ">Nền tảng hỗ trợ</a> · <a href="#triết-lý-thiết-kế">Triết lý thiết kế</a>
+  <a href="#bắt-đầu-nhanh">Bắt đầu nhanh</a> · <a href="README.md">English</a> · <a href="docs/README_zh.md">中文</a> · <a href="#nền-tảng-hỗ-trợ">Nền tảng hỗ trợ</a> · <a href="#triết-lý-thiết-kế">Triết lý thiết kế</a>
 </p>
 
 ---
